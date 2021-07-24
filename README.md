@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaayakk97
 - 👀 I’m interested in Web Development, Mobile App Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node.js
  
 <!---
 Vinaayakk97/Vinaayakk97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
