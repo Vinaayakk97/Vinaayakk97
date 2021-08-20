@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinaayakk97
-- 👀 I am currently working as Junior Software Developer at Anant Infomedia with experience of 1 year. Worked on HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL and also have knowledge in React.js and Node.js
+- 👀 I am currently working as Junior Software Developer at Anant Infomedia,Goa with experience of 1 year. Worked on HTML, CSS, JavaScript, Bootstrap, PHP, MYSQL and also have knowledge in React.js and Node.js
 - 🌱 I’m currently learning Node.js
  
 <!---
