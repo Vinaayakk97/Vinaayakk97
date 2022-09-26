@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vinayak Shashikant Halgekar
-- 1 year 7 months+ Industrial Experience. 
+- 2 years Industrial Experience. 
 - Worked on HTML, CSS, JavaScript, Bootstrap, MYSQL, Node.js and React.js.
  
 <!---
