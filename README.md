@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinayak Shashikant Halgekar
 - 2 years Industrial Experience. 
-- Worked on HTML, CSS, JavaScript, Bootstrap, MYSQL, Node.js and React.js.
+- Worked on HTML, CSS, JavaScript, Bootstrap, MYSQL, Node.js.
  
 <!---
 Vinaayakk97/Vinaayakk97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
